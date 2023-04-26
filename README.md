@@ -1,4 +1,4 @@
-# KivorkTask
+
 QA AUTOMATION ENGINEER TASK
 
 1) How would you handle a StaleElementReferenceException? Please provide a code fragment or fragments, if you know about several common ways of handling.
